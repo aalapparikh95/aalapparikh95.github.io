@@ -1,0 +1,31 @@
+#name_header {
+    text-decoration: wavy;
+    text-align: justify;
+    padding-top :10px;
+    padding-bottom: 10px;
+    vertical-align: middle;
+}
+
+.section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.subsection {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 15px;
+}
+
+.subheading {
+    font-size: large;
+    margin-bottom: 0px;
+}
+
+.heading {
+    color: rgb(100, 100, 100);
+}
+
+body {
+    color: rgb(63, 63, 63);
+}
